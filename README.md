@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AmanTheProProgrammer
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 AmanTheProProgrammer/AmanTheProProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
